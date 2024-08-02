@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+body{
+background-color: aqua;
+}
+button{
+  cursor: pointer;
+  background-color: green;
+  border:  none;
+}
+input{
+width: 100px;
+height: 40px;
+}
+.wrapper{
+  margin: 0 auto;
+  width: 500px;
+  margin-top: 100px;
+background-color: white;
+}
